@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{DE4DFC00-4603-4C00-9506-43FE8D7162AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Truco FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="client/src/scenes/game.js">
+    <Files>
+      <File FileName="server.js" Line="99" Column="8" />
+      <File FileName="client/src/scenes/game.js" Line="133" Column="9" />
+      <File FileName="client/src/helpers/card.js" />
+      <File FileName="client/src/helpers/dealer.js" />
+      <File FileName="client/src/helpers/zone.js" />
+      <File FileName="client/src/index.js" />
+      <File FileName="client/index.html" />
+      <File FileName="client/package.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Truco" expanded="True">
+            <Node name="Truco" expanded="True">
+              <Node name="client" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="helpers" expanded="True" />
+                  <Node name="scenes" expanded="True">
+                    <Node name="game.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/pedrosuarez/Projects/Truco/client/src/scenes/game.js" relfile="client/src/scenes/game.js" line="420" column="1" />
+      <Breakpoint file="/Users/pedrosuarez/Projects/Truco/client/src/scenes/game.js" relfile="client/src/scenes/game.js" line="477" column="1" />
+      <Breakpoint file="/Users/pedrosuarez/Projects/Truco/client/src/scenes/game.js" relfile="client/src/scenes/game.js" line="679" column="1" />
+      <Breakpoint file="/Users/pedrosuarez/Projects/Truco/client/src/scenes/game.js" relfile="client/src/scenes/game.js" line="363" column="1" />
+      <Breakpoint file="/Users/pedrosuarez/Projects/Truco/client/src/scenes/game.js" relfile="client/src/scenes/game.js" line="192" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
